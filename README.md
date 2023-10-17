@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @SabirAhd
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me on fb
+- 👋 Hi, I’m Sabir Ahamed
+- 👀 I’m interested in computer science
+- 🌱 I’m currently learning git
+- 💞️ I’m looking to collaborate on ML
+- 📫 How to reach me on sabirahamed2004@gmail.com
 
 <!---
 SabirAhd/SabirAhd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
